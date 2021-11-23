@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AnthonyKasapi
+- 🖥️ I'm a 26 year old computer-science enthusiast from BC, Canada
+- 🌱 I’m currently learning: C#, Java, Python, HTML/CSS, JavaScript
+- 📫 Discord: AnthK#5864
